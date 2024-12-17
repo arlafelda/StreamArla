@@ -1,16 +1,15 @@
 # stream_arla
 
-A new Flutter project.
+Nama    : Arlafelda Meindra Widayat
+NIM     : 362358302169
+KELAS   : 2D TRPL
 
-## Getting Started
+Hasil Praktikum 1 :
+![gambar 1](image-1.png)
+![gambar 2](image-2.png)
+![gambar 3](image-3.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil praktikum 2 :
+![gambar 1](image-4.png)
+![gambar 2](image-5.png)
+![gambar 3](image-6.png)
